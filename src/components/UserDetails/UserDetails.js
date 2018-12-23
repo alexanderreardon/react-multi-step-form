@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Confirm extends Component {
+export class UserDetails extends Component {
   render() {
     return (
       <div>
-        <h1>Confirm</h1>
+        <h1>User Details</h1>
       </div>
     )
   }
 }
 
-export default Confirm;
+export default UserDetails;
