@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-multi-step-form/static/css/main.362c0e84.chunk.css"
   },
   {
-    "revision": "9b86fb0816763ace8982e0fd6df85f22",
+    "revision": "0630b92f2154584ecfd75ddf20b9cfc7",
     "url": "/react-multi-step-form/index.html"
   }
 ];

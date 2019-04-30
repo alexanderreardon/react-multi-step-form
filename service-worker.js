@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-multi-step-form/precache-manifest.6d03e155dbe7956e0d9033992769a665.js"
+  "/react-multi-step-form/precache-manifest.f26f2a4c9b5804ad5020549758147460.js"
 );
 
 workbox.clientsClaim();
